@@ -6,7 +6,7 @@
   </head>
   <body>
     <left><h1>Максим Шкатов</h1></left>
-    <left><img alt="Это я" width="15%" scr="img/me.jpg"></left>
+    <left><img alt="Это я" width="15%" src="img/me.jpg"></left>
     <br/>
     <h2>Контакты:</h2>
     Страничка <a href=https://vk.com/id504524604</a>
@@ -18,6 +18,7 @@
     E-mail: <i>shkatov-maksimka@mail.ru</i>
   </body>
 </html>
+
 
 
 
