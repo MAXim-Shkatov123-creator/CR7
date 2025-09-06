@@ -1,9 +1,6 @@
 <!doctype html>
-
 <html>
-  
   <head>
-    
     <meta charset="utf-8">
     <title>Моя личная страничка</title>
   </head>
@@ -21,6 +18,7 @@
     E-mail: <i>shkatov-maksimka@mail.ru</i>
   </body>
 </html>
+
 
 
 
