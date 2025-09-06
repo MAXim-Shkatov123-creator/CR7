@@ -1,4 +1,4 @@
-<!doctype>
+<!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -16,6 +16,7 @@
     E-mail: <i>shkatov-maksimka@mail.ru</i>
   </body>
 </html>
+
 
 
 
